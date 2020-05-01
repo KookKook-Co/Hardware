@@ -10,7 +10,7 @@
 const char* ssid     = "XXXXXXXXX";   //your network SSID
 const char* password = "XXXXXXXXX";   //your network password
 const char* myDomain = "script.google.com";
-String myScript = "/macros/s/AKfycbwxaUb6nEz4fz4STM9rQv-gGSSKn9Ize1DIiXrEWMQahTvalDY/exec";    //Replace with your own url
+String myScript = "/macros/s/xxxxxxxxxxx/exec";    //Replace with your own url
 String myFilename = "filename=ESP32-CAM.jpg";
 String mimeType = "&mimetype=image/jpeg";
 String myImage = "&data=";

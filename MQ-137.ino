@@ -16,7 +16,7 @@ const char* topicA ="/1/ammonia";
 
 const char* ssid =        "WiFi Name";
 const char* password =    "WiFi Password";
-const char* mqtt_server = "128.199.211.41";   /// example 192.168.0.19
+const char* mqtt_server = "your mqtt server";   /// example 192.168.0.19
 
 WiFiClient espClient;
 PubSubClient client(espClient);

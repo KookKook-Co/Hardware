@@ -12,7 +12,7 @@ const char* topicW ="/1/windspeed";
 
 const char* ssid =        "WiFi Name";
 const char* password =    "WiFi Password";
-const char* mqtt_server = "128.199.211.41"; 
+const char* mqtt_server = "your mqtt server"; 
 
 WiFiClient espClient;
 PubSubClient client(espClient);
